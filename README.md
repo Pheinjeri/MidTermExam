@@ -5,7 +5,9 @@ Body Mass Index is a machine that monitors a person's weight
 
 BMI has the following classes:
 . First stage
+
 . Second stage
+
 . Third stage
 
 Personal data is entered into the machine includes;
@@ -17,3 +19,5 @@ Personal data is entered into the machine includes;
 
 From then it mentors your weight and height at the same time ensuring that it gives you the required amount of calories needed to loose and what to add
 [The weight measure]!(image 2.jpg)
+
+getBMI(double weight, double height); calculates your BMI by dividing your mass in Kgs over your total height in m
